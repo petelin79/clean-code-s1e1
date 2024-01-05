@@ -46,16 +46,16 @@
 }
 
 .task-list {
-  margin:0;
+  margin: 0;
   padding: 0px;
 }
 
 .task-list_regular-mode, .label {
-  list-style:none;
+  list-style: none;
 }
 
 .task-input,.button{
-  outline:none;
+  outline: none;
 }
 
 .button {
@@ -163,14 +163,14 @@
 /* Edit Task */
 
 .task-list .task-list_regular-mode .text-input_visible {
-  display:none
+  display: none
 }
 
 .task-list .task-list_regular-mode.task-list_edit-mode .text-input_visible {
-  display:inline-block;
-  width:224px
+  display: inline-block;
+  width: 224px
 }
 
 .task-list .task-list_regular-mode.task-list_edit-mode .task-input_hidden {
-  display:none;
+  display: none;
 }
