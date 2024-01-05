@@ -140,7 +140,7 @@
 }
 
 .text-input__input-field {
-  width: 226px
+  width: 226px;
 }
 
 .button-delete .button-delete__image {
@@ -156,19 +156,19 @@
 /* Completed */
 
 .text-input__completed {
-  text-decoration: line-through
+  text-decoration: line-through;
   color: #888;
 }
 
 /* Edit Task */
 
 .task-list .task-list_regular-mode .text-input_visible {
-  display: none
+  display: none;
 }
 
 .task-list .task-list_regular-mode.task-list_edit-mode .text-input_visible {
   display: inline-block;
-  width: 224px
+  width: 224px;
 }
 
 .task-list .task-list_regular-mode.task-list_edit-mode .task-input_hidden {
